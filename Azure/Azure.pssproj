@@ -32,6 +32,7 @@
     <Compile Include="AzureVMBackupEx1.ps1" />
     <Compile Include="PowerOnOffAzureVM.ps1" />
     <Compile Include="PS5Example1.ps1" />
+    <Compile Include="Test.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Target Name="Build" />
