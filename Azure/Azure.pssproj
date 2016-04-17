@@ -28,6 +28,7 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="AzureARMP2SEx1.ps1" />
     <Compile Include="AzureVMBackupEx1.ps1" />
     <Compile Include="PowerOnOffAzureVM.ps1" />
   </ItemGroup>
